@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+@import "bootstrap/scss/bootstrap";
+
+$primary: #1e1e1e;
+$secondary: #181818;
+$warning: #C5F7C9;
+
+.bg-primary {
+
+  background-color: $primary !important;
+}
+
+.bg-secondary {
+
+  background-color: $secondary !important;
+}
+
+.text-warning {
+
+  color: $warning !important;
+}
+
+.border-warning {
+
+  border-color: $warning !important;
+}
+
+.offcanvas {
+
+  width: 450px !important;
+  padding: 0 1rem;
+}
+
+.text-bg-warning {
+
+  background-color: $warning !important;
+}
+
+body {
+
+  min-height: 100vh;
+  background-color: $primary;
+}

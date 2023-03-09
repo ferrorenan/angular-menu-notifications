@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-menu-notifications';
+
+  // Project generate with
+  private readonly generatedInformation = 'Angular CLI 15.2.0';
+
 }

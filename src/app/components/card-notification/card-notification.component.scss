@@ -1,0 +1,26 @@
+.card {
+
+  border-radius: 25px;
+  margin-bottom: 1.5rem;
+  border-width: 2px;
+  border-style: solid;
+  color: white;
+
+  &-title {
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+  }
+
+  &-date {
+    font-size: 0.75rem;
+    margin-bottom: 0.75rem;
+    border-radius: 5px;
+  }
+
+  &-text {
+    font-size: 0.825rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+}
