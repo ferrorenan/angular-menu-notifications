@@ -1,27 +1,27 @@
-# AngularMenuNotifications
+# Menu Notifications Animated
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+Menu notifications animated made withh:
 
-## Development server
+### Article
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Article link: [**Let's build a Nice and Animated Notifications Menu with Angular, Angular Animations and Bootstrap**](https://dev.to/renancferro/lets-build-a-nice-and-animated-notifications-menu-with-angular-angular-animations-and-bootstrap-3kp8)
 
-## Code scaffolding
+### Made with
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=fc0000&color=fc0000)
+![](https://img.shields.io/badge/Code-Angular_Animations-informational?style=flat&logo=angular&logoColor=fc0000&color=fc0000)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=2E79C7)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=881AFC&color=881AFC)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### How to execute:
 
-## Build
+1: Install dependencies:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+`
+Execute: npm install
+`
 
-## Running unit tests
+2: Open it in your brownser:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+`
+Execute: ng serve -o
+`
